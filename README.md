@@ -1,6 +1,10 @@
 # AutomataDatExplorer
 py script compilable as .exe to extract and repack exes from the file explorer
 
+thrown together using https://github.com/xxk-i/DATrepacker and nier2blender2niers dat unpacker script.
+
+WORKS FOR ALL DAT CONTAINER TYPES (.dat, .dtt, .eff)
+
 
 Usage:
 downlaod prebuilt .exe release zip or build yourself,
